@@ -1,0 +1,5 @@
+Remove-LocalUser -Name "Bill_Collins"
+Remove-LocalUser -Name "Erin_Fields"
+Remove-LocalUser -Name "Ivan_Mason"
+Remove-LocalUser -Name "Rachael_Frazier"
+Remove-LocalUser -Name "Sherri_Marsh"
