@@ -9,6 +9,7 @@ assignment
 awful
 balance
 banana
+basic
 basin
 basketball
 beam
@@ -56,6 +57,7 @@ marine
 mastermind
 mastermind
 modernize
+mug
 mutter
 mutual
 my
